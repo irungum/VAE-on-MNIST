@@ -61,5 +61,7 @@ The model is trained using the MNIST dataset, which contains 60,000 training ima
 The trained model successfully generates realistic handwritten digits that closely resemble those in the MNIST dataset.
 Below are some of the generated samples from the model:
 
+![Results](VAE_on_MNIST.png)
+
 ## References
 1. Kingma, D.P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
