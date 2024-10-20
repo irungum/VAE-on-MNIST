@@ -63,5 +63,7 @@ Below are some of the generated samples from the model:
 
 ![Results](VAE_on_MNIST.png)
 
+The top row is the original MNIST data, the middle row is the reconstructed outputs, and the last row is the generated samples
+
 ## References
 1. Kingma, D.P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
